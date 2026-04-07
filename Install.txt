@@ -1,0 +1,4 @@
+Sparx Enterprise Architect version 15:
+Configure>Transfer>Import Reference Data...>Import File>Filename: SelectFile(...> eCMDA-ref.xml)>Automation Script>Import
+Sparx Enterprise Architect version 17:
+Settings>Transfer>Import Reference Data...>Import File>Filename: SelectFile(...> eCMDA-ref.xml)>Automation Script>Import
