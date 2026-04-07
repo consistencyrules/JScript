@@ -1,1 +1,0 @@
-Configure>Transfer>Import Reference Data...>Import File>Filename: SelectFile(...> eCMDA-ref.xml)>Automation Script>Import
